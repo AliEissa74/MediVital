@@ -11,7 +11,7 @@ ___________________________________________________
 
 ### Homepage
 The homepage serves as the main entry point for users, offering an overview of Medivital’s features and functionalities.
-![Home-sec1](https://github.com/user-attachments/assets/c8da793e-cd1f-4702-b187-b484e61d7e7e)
+![Home-sec1](https://github.com/user-attachments/assets/e36f61a3-e357-4a83-b742-b4df4e30f0df)
 
 **Features:**
 - Search bar for finding doctors by specialty, location, or name.
