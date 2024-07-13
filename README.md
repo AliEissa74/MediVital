@@ -7,7 +7,7 @@ MediVital is a comprehensive medical reservation system designed to connect user
 ___________________________________________________
 ## Website Structure
 **Overview Video:**
-[MediVital-overview-video](https://github.com/user-attachments/assets/1e00c041-deff-466f-9909-9117e3d5febc)
+[MediVital-video](https://github.com/user-attachments/assets/1e00c041-deff-466f-9909-9117e3d5febc)
 
 ### Homepage
 The homepage serves as the main entry point for users, offering an overview of Medivital’s features and functionalities.
