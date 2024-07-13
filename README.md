@@ -37,8 +37,8 @@ ___________________________________________________
 Medivital is designed to be fully responsive, ensuring an optimal experience on all devices, including mobile phones and tablets.
 
 **Mobile:**
-![iPhone-13-PRO-pharmacy](https://github.com/user-attachments/assets/19f5badc-5242-4887-9b33-33d12850b18a){: width="200px" height="200px"}
-
+![iPhone-13-PRO-pharmacy](https://github.com/user-attachments/assets/19f5badc-5242-4887-9b33-33d12850b18a)
+<br><br><br>
 **Tablet View:**
 ![Galaxy-Tab-S7-article-sec1](https://github.com/user-attachments/assets/80afda71-411f-455f-ac58-0eaf83f9cd5c)
 _________________________________________________
