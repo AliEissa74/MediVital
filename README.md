@@ -7,7 +7,7 @@ MediVital is a comprehensive medical reservation system designed to connect user
 ___________________________________________________
 ## Website Structure
 **Overview Video:**
-[MediVital-–-Book-the-Best-Doctors.webm](https://github.com/user-attachments/assets/1e00c041-deff-466f-9909-9117e3d5febc)
+[MediVital-overview-video](https://github.com/user-attachments/assets/1e00c041-deff-466f-9909-9117e3d5febc)
 
 ### Homepage
 The homepage serves as the main entry point for users, offering an overview of Medivital’s features and functionalities.
@@ -38,7 +38,7 @@ Medivital is designed to be fully responsive, ensuring an optimal experience on 
 
 **Mobile:**
 ![iPhone-13-PRO-pharmacy](https://github.com/user-attachments/assets/19f5badc-5242-4887-9b33-33d12850b18a)
-
+<br>
 **Tablet View:**
 ![Galaxy-Tab-S7-article-sec1](https://github.com/user-attachments/assets/80afda71-411f-455f-ac58-0eaf83f9cd5c)
 _________________________________________________
