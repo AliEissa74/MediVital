@@ -43,4 +43,5 @@ _________________________________________________
 
 ## Conclusion
 Medivital is designed to make healthcare more accessible and efficient by providing a seamless platform for booking medical appointments. With detailed doctor profiles, patient reviews, and an intuitive booking system.
+
 Visit our website: [Medivital](http://www.medivital.me)
